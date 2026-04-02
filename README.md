@@ -1,4 +1,4 @@
-<!-- ================= HERO BANNER ================= -->
+t<!-- ================= HERO BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Siddharth%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -31,7 +31,7 @@ Interests: Cybersecurity, ML, Problem Solving
 
 ```
 
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=Siddharth-89-dev&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=Siddharth-89-dev&theme=tokyonight&hide_border=true"/> </p>
+
 
 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/Siddharth_89?theme=dark&ext=heatmap"/> </p> <p align="center"> <img src="https://quickchart.io/chart?c={type:'radialGauge',data:{datasets:[{data:[75]}]},options:{trackColor:'#111',centerPercentage:80,centerArea:{text:'Solved',subText:'75%'}}}"/> </p>
