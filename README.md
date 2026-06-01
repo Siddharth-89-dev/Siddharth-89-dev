@@ -1,4 +1,4 @@
-t<!-- ================= HERO BANNER ================= -->
+<!-- ================= HERO BANNER ================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Siddharth%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
@@ -10,10 +10,7 @@ t<!-- ================= HERO BANNER ================= -->
 
 <!-- ================= SOCIAL ================= -->
 <p align="center">
-  <a href="https://github.com/Siddharth-89-dev">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/siddharth-sharma-68102b2a4/">
+   <a href="https://www.linkedin.com/in/siddharth-sharma-68102b2a4/">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
